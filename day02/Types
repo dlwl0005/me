@@ -1,0 +1,14 @@
+#Data Types
+#프로그래밍 언어에서 두가지로 나뉨
+#1. 컴파일 언어
+# - 데이터 타입이 미리 정함
+# -dallor -> int doller = 10 or String doller = "10"
+# - 하나라도 틀리면(컴파일 과정) 걸러짐
+
+# 2. 인터프리터 언어 ex) python, javascript
+# - 데이터 타입을 그 때 정함
+# - 일단 돌림
+
+# 1. str(문자열)
+a = "메가스터디"
+print(type(a))
