@@ -28,5 +28,5 @@ print(bitcoin > 0 and bitcoin < 200)
 print((bitcoin > 0 and bitcoin < 200) or doge > 100)
 print(not(bitcoin > 0))
 #in 연산자 [리스트]
- xsd = ['mega', 'study', 'shinchon']
- print('study' in xsd)
+x = ['mega', 'study', 'shinchon']
+print('study' in x)
